@@ -22,7 +22,7 @@ public class Arrays {
            vector[i] = teclado.nextInt();
        }     
           
-       //recorrido
+       //recorrido de vector
        int i;
        for( i =0; i<vector.length ; i++){
            System.out.println("Estoy en el indice: "+ i);
